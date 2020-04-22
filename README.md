@@ -1,3 +1,3 @@
 # Ajouter des moteurs de recherche dans Zotero
 
-Compléter le fichier engines.json
+Compléter le fichier <i>engines.json</i>
