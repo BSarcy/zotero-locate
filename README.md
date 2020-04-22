@@ -1,11 +1,14 @@
-# Ajouter des moteurs de recherche dans Zotero
+# Ajouter des moteurs de recherche BnF et SUDOC dans Zotero
 
-Compléter le fichier <i>engines.json</i> en fonction
+⌨ Compléter le fichier <i>engines.json</i>
 
-engines_json contient les informations pour ajouter les moteurs de recherche :
+📂 *engines_json* contient les informations pour ajouter les moteurs de recherche :
   - BnF
   - SUDOC
+  -- SUDOC auteur(s)/titre
+  -- SUDOC auteurs(s)/titre/ISBN
+  -- SUDOC ISBN
 
-<h2>Important</h2>
+<h2>Attention !</h2>
 
-Séparer chaque "moteur" par une ,
+🔎 Séparer chaque "moteur" par une virgule <b>,</b>
