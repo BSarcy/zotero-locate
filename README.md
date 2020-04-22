@@ -7,4 +7,5 @@ engines_json contient les informations pour ajouter les moteurs de recherche :
   - SUDOC
 
 <b>Important</b>
-séparer chaque "moteur" par une ,
+
+Séparer chaque "moteur" par une ,
