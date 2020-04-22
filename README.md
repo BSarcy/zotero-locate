@@ -6,5 +6,5 @@ engines_json contient les informations pour ajouter les moteurs de recherche :
   - BnF
   - SUDOC
 
-<g>Important</g>
+<b>Important</b>
 séparer chaque "moteur" par une ,
