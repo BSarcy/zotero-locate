@@ -12,3 +12,7 @@
 <h2>Attention !</h2>
 
 🔎 Séparer chaque "moteur" par une virgule <b>,</b>
+
+______
+
+🔛 En cours d'ajout à https://github.com/egh/zotero-lookup-engines
