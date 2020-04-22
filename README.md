@@ -1,10 +1,10 @@
 # Ajouter des moteurs de recherche BnF et SUDOC dans Zotero
 
-⌨ Compléter le fichier *engines.json*
+⌨ Compléter le fichier *engines.json* présent dans le dossier ***locate***
 
 📂 ***engines_json*** contient les informations pour ajouter les moteurs de recherche :
-  - BnF
-  - SUDOC
+  - BnF (Bibliothèque nationale de France)
+  - SUDOC (Système Universitaire de DOCumentation)
     - SUDOC auteur(s)/titre
     - SUDOC auteurs(s)/titre/ISBN
     - SUDOC ISBN
