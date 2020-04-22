@@ -15,4 +15,4 @@
 
 ______
 
-🔛 En cours d'ajout à https://github.com/egh/zotero-lookup-engines
+🔛 En cours d'ajout à https://github.com/egh/zotero-lookup-engines (avril 2020)
