@@ -2,12 +2,12 @@
 
 ⌨ Compléter le fichier <i>engines.json</i>
 
-📂 *engines_json* contient les informations pour ajouter les moteurs de recherche :
+📂 engines_json contient les informations pour ajouter les moteurs de recherche :
   - BnF
   - SUDOC
-  -- SUDOC auteur(s)/titre
-  -- SUDOC auteurs(s)/titre/ISBN
-  -- SUDOC ISBN
+  - SUDOC auteur(s)/titre
+  - SUDOC auteurs(s)/titre/ISBN
+  - SUDOC ISBN
 
 <h2>Attention !</h2>
 
