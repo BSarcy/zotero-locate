@@ -1,0 +1,5 @@
+{
+	"title": "BnF - Bibliothèque nationale de France - Recherche de livres",
+	"icon": "https://catalogue.bnf.fr/images/icones/icone_CG.png",
+	"linktemplate": "https://catalogue.bnf.fr/rechercher.do?motRecherche={rft:aufirst?}+{rft:aulast?}+{z:title}+{z:ISBN?}&critereRecherche=0&depart=0&facetteModifiee=ok"
+  }

@@ -1,0 +1,92 @@
+[
+    {
+        "_name": "SUDOC",
+        "_alias": "SUDOC",
+        "country": "FR",
+        "_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=2/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={z:title}+{rft:aufirst?}+{rft:aulast?}",
+        "_description": "SUDOCsearch",
+        "_urlParams": [],
+        "_hidden": false,
+        "_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
+        "_urlNamespaces": {
+            "rft": "info:ofi/fmt:kev:mtx:journal",
+            "z": "http://www.zotero.org/namespaces/openSearch#",
+            "": "http://a9.com/-/spec/opensearch/1.1/"
+        }
+    },
+    {
+        "_name": "SUDOC - auteur(s)/titre/ISBN",
+        "_alias": "SUDOC - auteur(s)/titre/ISBN",
+        "country": "FR",
+        "_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=16/TTL=1/CMD?ACT=SRCHM&MATCFILTER=Y&MATCSET=Y&NOSCAN=Y&PARSE_MNEMONICS=N&PARSE_OPWORDS=N&PARSE_OLDSETS=N&IMPLAND=Y&ACT0=SRCHA&IKT0=1004&TRM0={rft:aufirst?}+{rft:aulast?}&ACT1=*&IKT1=4&TRM1={z:title}&ACT2=*&IKT2=7&TRM2={z:ISBN?}",
+        "_description": "SUDOC - auteur(s)/titre/ISBNsearch",
+        "_urlParams": [],
+        "_hidden": false,
+        "_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
+        "_urlNamespaces": {
+            "rft": "info:ofi/fmt:kev:mtx:journal",
+            "z": "http://www.zotero.org/namespaces/openSearch#",
+            "": "http://a9.com/-/spec/opensearch/1.1/"
+        }
+    },
+    {
+        "_name": "BnF - Biblioth\u00e8que nationale de France - Recherche de livres",
+        "_alias": "BnF - Biblioth\u00e8que nationale de France - Recherche de livres",
+        "country": "FR",
+        "_urlTemplate": "https://catalogue.bnf.fr/rechercher.do?motRecherche={rft:aufirst?}+{rft:aulast?}+{z:title}+{z:ISBN?}&critereRecherche=0&depart=0&facetteModifiee=ok",
+        "_description": "BnF - Biblioth\u00e8que nationale de France - Recherche de livressearch",
+        "_urlParams": [],
+        "_hidden": false,
+        "_icon": "https://catalogue.bnf.fr/images/icones/icone_CG.png",
+        "_urlNamespaces": {
+            "rft": "info:ofi/fmt:kev:mtx:journal",
+            "z": "http://www.zotero.org/namespaces/openSearch#",
+            "": "http://a9.com/-/spec/opensearch/1.1/"
+        }
+    },
+    {
+        "_name": "SUDOC - auteur(s)/titre",
+        "_alias": "SUDOC - auteur(s)/titre",
+        "country": "FR",
+        "_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=21/TTL=1/CMD?ACT=SRCHM&MATCFILTER=Y&MATCSET=Y&NOSCAN=Y&PARSE_MNEMONICS=N&PARSE_OPWORDS=N&PARSE_OLDSETS=N&IMPLAND=Y&ACT0=SRCHA&IKT0=1004&TRM0={rft:aufirst?}+{rft:aulast?}&ACT1=*&IKT1=4&TRM1={z:title}",
+        "_description": "SUDOC - auteur(s)/titresearch",
+        "_urlParams": [],
+        "_hidden": false,
+        "_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
+        "_urlNamespaces": {
+            "rft": "info:ofi/fmt:kev:mtx:journal",
+            "z": "http://www.zotero.org/namespaces/openSearch#",
+            "": "http://a9.com/-/spec/opensearch/1.1/"
+        }
+    },
+    {
+        "_name": "SUDOC - ISBN",
+        "_alias": "SUDOC - ISBN",
+        "country": "FR",
+        "_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=4/TTL=1/CMD?ACT=SRCHM&MATCFILTER=Y&MATCSET=Y&NOSCAN=Y&PARSE_MNEMONICS=N&PARSE_OPWORDS=N&PARSE_OLDSETS=N&IMPLAND=Y&ACT0=SRCHA&IKT0=7&TRM0={z:ISBN?}",
+        "_description": "SUDOC - ISBNsearch",
+        "_urlParams": [],
+        "_hidden": false,
+        "_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
+        "_urlNamespaces": {
+            "rft": "info:ofi/fmt:kev:mtx:journal",
+            "z": "http://www.zotero.org/namespaces/openSearch#",
+            "": "http://a9.com/-/spec/opensearch/1.1/"
+        }
+    },
+    {
+        "_name": "BnF - Biblioth\u00e8que nationale de France - Recherche de revues",
+        "_alias": "BnF - Biblioth\u00e8que nationale de France - Recherche de revues",
+        "country": "FR",
+        "_urlTemplate": "https://catalogue.bnf.fr/search.do?mots0=ALL;-1;0;{rft:jtitle?}+{z:ISSN?}&facNots=S&pageRech=rav",
+        "_description": "BnF - Biblioth\u00e8que nationale de France - Recherche de revuessearch",
+        "_urlParams": [],
+        "_hidden": false,
+        "_icon": "https://catalogue.bnf.fr/images/icones/icone_CG.png",
+        "_urlNamespaces": {
+            "rft": "info:ofi/fmt:kev:mtx:journal",
+            "z": "http://www.zotero.org/namespaces/openSearch#",
+            "": "http://a9.com/-/spec/opensearch/1.1/"
+        }
+    }
+]

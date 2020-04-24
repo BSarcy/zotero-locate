@@ -1,0 +1,6 @@
+{
+	"title": "BnF - Bibliothèque nationale de France - Recherche de revues",
+	"icon": "https://catalogue.bnf.fr/images/icones/icone_CG.png",
+	"linktemplate": "https://catalogue.bnf.fr/search.do?mots0=ALL;-1;0;{rft:jtitle?}+{z:ISSN?}&facNots=S&pageRech=rav"
+  }
+
