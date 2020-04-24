@@ -7,9 +7,9 @@ Ce script nécesite l'installation de python (installé par défaut sur les envi
 L'écriture du moteur doit suivre une syntaxe allégée. Le générateur ajoute les informations complémentaires  
 ```json
 {
-	"title": [nom publique de votre moteur] - obligatoire, 
-	"icon": [lien vers l'icône] - facultatif,
-	"linktemplate": [Masque pour la construction de l'url de recherche - obligatoire]
+	"title": "[nom publique de votre moteur] - obligatoire", 
+	"icon": "[lien vers l'icône] - facultatif",
+	"linktemplate": "[Masque pour la construction de l'url de recherche - obligatoire]"
   }
 ```
 ## Usage pour linux :
