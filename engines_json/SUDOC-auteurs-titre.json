@@ -1,0 +1,5 @@
+{
+	"title": "SUDOC - auteur(s)/titre",
+	"icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
+	"linktemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=21/TTL=1/CMD?ACT=SRCHM&MATCFILTER=Y&MATCSET=Y&NOSCAN=Y&PARSE_MNEMONICS=N&PARSE_OPWORDS=N&PARSE_OLDSETS=N&IMPLAND=Y&ACT0=SRCHA&IKT0=1004&TRM0={rft:aufirst?}+{rft:aulast?}&ACT1=*&IKT1=4&TRM1={z:title}"
+}
